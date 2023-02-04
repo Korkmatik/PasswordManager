@@ -31,3 +31,9 @@ The password manager has the following features:
 ## Creating a new database
 
 ![image](https://user-images.githubusercontent.com/39222224/216790587-7ecbaf1e-a3b9-4a01-9271-1f1af04d155b.png)
+
+# Libraries
+You need to link the following libraries to your class path, if you want to compile the project:
+
+- https://github.com/xerial/sqlite-jdbc
+- https://github.com/jasypt/jasypt
