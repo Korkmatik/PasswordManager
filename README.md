@@ -1,4 +1,4 @@
-# PasswordManager
+# Password Manager
 
 This is a basic password manager implemented with Java, Java Swing, JDBC, jasypt and SQLite. This repository is part of one of my [tutorials](https://youtube.com/playlist?list=PLNm1BoGDChIKMfTPALitlzR_JQA6RZARY).
 
