@@ -7,13 +7,6 @@ The password manager has the following features:
 - Save passwords
 - Display passwords
 
-# Project Structure
-
-- Controllers: Contains application logic
-- db: Classes to interact with the database
-- gui: Classes that implement the GUI with Java Swing
-- models: Classes that handle the data of the application (Metadata, Credentials)
-
 # GUI
 
 ## Main Window for opening a database
@@ -31,6 +24,13 @@ The password manager has the following features:
 ## Creating a new database
 
 ![image](https://user-images.githubusercontent.com/39222224/216790587-7ecbaf1e-a3b9-4a01-9271-1f1af04d155b.png)
+
+# Project Structure
+
+- Controllers: Contains application logic
+- db: Classes to interact with the database
+- gui: Classes that implement the GUI with Java Swing
+- models: Classes that handle the data of the application (Metadata, Credentials)
 
 # Libraries
 You need to link the following libraries to your class path, if you want to compile the project:
