@@ -7,6 +7,13 @@ The password manager has the following features:
 - Save passwords
 - Display passwords
 
+# Project Structure
+
+- Controllers: Contains application logic
+- db: Classes to interact with the database
+- gui: Classes that implement the GUI with Java Swing
+- models: Classes that handle the data of the application (Metadata, Credentials)
+
 # GUI
 
 ## Main Window for opening a database
